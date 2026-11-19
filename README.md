@@ -1,7 +1,8 @@
 # AI 工作流交付包（设计团队提效 · 公开版）
 
 > 陈智明（广州）· 视觉设计顾问 / AI 工作流赋能师 · L.C Design 主理人
-> 官网 www.lc66b.xyz ｜ 电话 15920563455 ｜ 本交付包为真实项目流程的公开版，数字口径全部来自项目台账，可核验。
+> 官网 www.lc66b.xyz ｜ 本交付包为真实项目流程的公开版，数字口径全部来自项目台账，可核验。
+> 联系：请在 GitHub 通过 Issues 或官网公开渠道联系（公开版本不列个人电话）。
 > GitHub 仓库：https://github.com/xxlcxx666/ai-workflow-delivery-kit ｜ 整包下载（公网）：https://jcnx8wv6bjp5.feishu.cn/file/HUcNbgoPLo7wIyxVMeDcLo6VnBd
 > 作品集单页（HTML）：https://github.com/xxlcxx666/ai-workflow-delivery-kit/blob/main/%E4%BD%9C%E5%93%81%E9%9B%86%E4%B8%80%E9%A1%B5%E7%BA%B8.html
 
